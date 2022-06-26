@@ -118,3 +118,11 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# Build
+out/
+stock/
+stock_32/
+proton-clang/
+libufdt/
+AnyKernel3/
